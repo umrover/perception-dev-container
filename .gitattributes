@@ -1,0 +1,16 @@
+*.sif filter=lfs diff=lfs merge=lfs -text
+dev.aa filter=lfs diff=lfs merge=lfs -text
+dev.ab filter=lfs diff=lfs merge=lfs -text
+dev.ac filter=lfs diff=lfs merge=lfs -text
+dev.ad filter=lfs diff=lfs merge=lfs -text
+dev.ae filter=lfs diff=lfs merge=lfs -text
+dev.an filter=lfs diff=lfs merge=lfs -text
+dev.ao filter=lfs diff=lfs merge=lfs -text
+dev.ai filter=lfs diff=lfs merge=lfs -text
+dev.aj filter=lfs diff=lfs merge=lfs -text
+dev.ah filter=lfs diff=lfs merge=lfs -text
+dev.ak filter=lfs diff=lfs merge=lfs -text
+dev.al filter=lfs diff=lfs merge=lfs -text
+dev.am filter=lfs diff=lfs merge=lfs -text
+dev.af filter=lfs diff=lfs merge=lfs -text
+dev.ag filter=lfs diff=lfs merge=lfs -text
